@@ -16,3 +16,4 @@ MIRROR
      * Захват движения метки с видео
      * Захват движения метки в живом времени(*Video_stream*)
 
+https://prezi.com/view/Tjg1v3I3uTRX91JUpRE5/
